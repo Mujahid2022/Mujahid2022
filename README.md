@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mujahid2022
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on any project that required data analyt
+- 💞️ I’m looking to collaborate on any project that required data analyst
 - 📫 How to reach me www.linkedin.com/in/mujahidmmb
 
 <!---
